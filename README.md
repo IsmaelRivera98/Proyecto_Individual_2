@@ -39,7 +39,7 @@ Dentro de los análisis efectuados se encuentran:
 
 ## Dashboard e insights
 
-El [dashboard] consta de 1 portada y 4 páginas navegables a través de botones.
+El dashboard consta de 1 portada y 4 páginas navegables a través de botones.
 
 Se destaca que dentro de cada página del mismo, en la esquina superior derecha, se puede encontrar el botón de información que redirecciona a este repositorio de Github.
 
